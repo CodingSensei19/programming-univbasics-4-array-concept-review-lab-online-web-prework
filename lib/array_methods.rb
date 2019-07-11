@@ -13,5 +13,5 @@ def find_max_value(array)
 end
 
 def find_min_value(array)
-[5,10].min 
+[5,10].min
 end
